@@ -1,0 +1,12 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    color: #363958;  
+}
+.penguin-card{
+    border: 0;
+    border-radius: 2em;
+}
+.penguin-card-footer{
+    background-color: white;
+    border: 0;
+}
